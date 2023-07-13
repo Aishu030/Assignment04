@@ -1,0 +1,8 @@
+D:\mpahsis\day4\day4ex04\day4ex04\bin\Debug\day4ex04.exe.config
+D:\mpahsis\day4\day4ex04\day4ex04\bin\Debug\day4ex04.exe
+D:\mpahsis\day4\day4ex04\day4ex04\bin\Debug\day4ex04.pdb
+D:\mpahsis\day4\day4ex04\day4ex04\obj\Debug\day4ex04.csproj.AssemblyReference.cache
+D:\mpahsis\day4\day4ex04\day4ex04\obj\Debug\day4ex04.csproj.SuggestedBindingRedirects.cache
+D:\mpahsis\day4\day4ex04\day4ex04\obj\Debug\day4ex04.csproj.CoreCompileInputs.cache
+D:\mpahsis\day4\day4ex04\day4ex04\obj\Debug\day4ex04.exe
+D:\mpahsis\day4\day4ex04\day4ex04\obj\Debug\day4ex04.pdb
